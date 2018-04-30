@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\findwords\bin\Debug\netcoreapp2.0\findwords.deps.json
+D:\github\c-pratice\loopsansstring\findwords\bin\Debug\netcoreapp2.0\findwords.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\findwords\bin\Debug\netcoreapp2.0\findwords.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\findwords\bin\Debug\netcoreapp2.0\findwords.dll
+D:\github\c-pratice\loopsansstring\findwords\bin\Debug\netcoreapp2.0\findwords.pdb
+D:\github\c-pratice\loopsansstring\findwords\obj\Debug\netcoreapp2.0\findwords.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\findwords\obj\Debug\netcoreapp2.0\findwords.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\findwords\obj\Debug\netcoreapp2.0\findwords.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\findwords\obj\Debug\netcoreapp2.0\findwords.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\findwords\obj\Debug\netcoreapp2.0\findwords.dll
+D:\github\c-pratice\loopsansstring\findwords\obj\Debug\netcoreapp2.0\findwords.pdb

@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\counting backwards\bin\Debug\netcoreapp2.0\counting backwards.deps.json
+D:\github\c-pratice\loopsansstring\counting backwards\bin\Debug\netcoreapp2.0\counting backwards.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\counting backwards\bin\Debug\netcoreapp2.0\counting backwards.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\counting backwards\bin\Debug\netcoreapp2.0\counting backwards.dll
+D:\github\c-pratice\loopsansstring\counting backwards\bin\Debug\netcoreapp2.0\counting backwards.pdb
+D:\github\c-pratice\loopsansstring\counting backwards\obj\Debug\netcoreapp2.0\counting backwards.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\counting backwards\obj\Debug\netcoreapp2.0\counting backwards.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\counting backwards\obj\Debug\netcoreapp2.0\counting backwards.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\counting backwards\obj\Debug\netcoreapp2.0\counting backwards.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\counting backwards\obj\Debug\netcoreapp2.0\counting backwards.dll
+D:\github\c-pratice\loopsansstring\counting backwards\obj\Debug\netcoreapp2.0\counting backwards.pdb

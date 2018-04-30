@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\cartoonsimulator\bin\Debug\netcoreapp2.0\cartoonsimulator.deps.json
+D:\github\c-pratice\loopsansstring\cartoonsimulator\bin\Debug\netcoreapp2.0\cartoonsimulator.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\cartoonsimulator\bin\Debug\netcoreapp2.0\cartoonsimulator.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\cartoonsimulator\bin\Debug\netcoreapp2.0\cartoonsimulator.dll
+D:\github\c-pratice\loopsansstring\cartoonsimulator\bin\Debug\netcoreapp2.0\cartoonsimulator.pdb
+D:\github\c-pratice\loopsansstring\cartoonsimulator\obj\Debug\netcoreapp2.0\cartoonsimulator.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\cartoonsimulator\obj\Debug\netcoreapp2.0\cartoonsimulator.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\cartoonsimulator\obj\Debug\netcoreapp2.0\cartoonsimulator.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\cartoonsimulator\obj\Debug\netcoreapp2.0\cartoonsimulator.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\cartoonsimulator\obj\Debug\netcoreapp2.0\cartoonsimulator.dll
+D:\github\c-pratice\loopsansstring\cartoonsimulator\obj\Debug\netcoreapp2.0\cartoonsimulator.pdb

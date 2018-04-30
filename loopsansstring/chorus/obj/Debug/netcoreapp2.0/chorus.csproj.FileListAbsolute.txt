@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\chorus\bin\Debug\netcoreapp2.0\chorus.deps.json
+D:\github\c-pratice\loopsansstring\chorus\bin\Debug\netcoreapp2.0\chorus.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\chorus\bin\Debug\netcoreapp2.0\chorus.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\chorus\bin\Debug\netcoreapp2.0\chorus.dll
+D:\github\c-pratice\loopsansstring\chorus\bin\Debug\netcoreapp2.0\chorus.pdb
+D:\github\c-pratice\loopsansstring\chorus\obj\Debug\netcoreapp2.0\chorus.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\chorus\obj\Debug\netcoreapp2.0\chorus.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\chorus\obj\Debug\netcoreapp2.0\chorus.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\chorus\obj\Debug\netcoreapp2.0\chorus.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\chorus\obj\Debug\netcoreapp2.0\chorus.dll
+D:\github\c-pratice\loopsansstring\chorus\obj\Debug\netcoreapp2.0\chorus.pdb

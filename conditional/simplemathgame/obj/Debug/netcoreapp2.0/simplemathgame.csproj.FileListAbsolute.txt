@@ -1,0 +1,11 @@
+D:\github\c-pratice\conditional\simplemathgame\bin\Debug\netcoreapp2.0\simplemathgame.deps.json
+D:\github\c-pratice\conditional\simplemathgame\bin\Debug\netcoreapp2.0\simplemathgame.runtimeconfig.json
+D:\github\c-pratice\conditional\simplemathgame\bin\Debug\netcoreapp2.0\simplemathgame.runtimeconfig.dev.json
+D:\github\c-pratice\conditional\simplemathgame\bin\Debug\netcoreapp2.0\simplemathgame.dll
+D:\github\c-pratice\conditional\simplemathgame\bin\Debug\netcoreapp2.0\simplemathgame.pdb
+D:\github\c-pratice\conditional\simplemathgame\obj\Debug\netcoreapp2.0\simplemathgame.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\conditional\simplemathgame\obj\Debug\netcoreapp2.0\simplemathgame.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\conditional\simplemathgame\obj\Debug\netcoreapp2.0\simplemathgame.AssemblyInfoInputs.cache
+D:\github\c-pratice\conditional\simplemathgame\obj\Debug\netcoreapp2.0\simplemathgame.AssemblyInfo.cs
+D:\github\c-pratice\conditional\simplemathgame\obj\Debug\netcoreapp2.0\simplemathgame.dll
+D:\github\c-pratice\conditional\simplemathgame\obj\Debug\netcoreapp2.0\simplemathgame.pdb

@@ -1,0 +1,11 @@
+D:\github\c-pratice\conditional\dicewithresult1\bin\Debug\netcoreapp2.0\dicewithresult1.deps.json
+D:\github\c-pratice\conditional\dicewithresult1\bin\Debug\netcoreapp2.0\dicewithresult1.runtimeconfig.json
+D:\github\c-pratice\conditional\dicewithresult1\bin\Debug\netcoreapp2.0\dicewithresult1.runtimeconfig.dev.json
+D:\github\c-pratice\conditional\dicewithresult1\bin\Debug\netcoreapp2.0\dicewithresult1.dll
+D:\github\c-pratice\conditional\dicewithresult1\bin\Debug\netcoreapp2.0\dicewithresult1.pdb
+D:\github\c-pratice\conditional\dicewithresult1\obj\Debug\netcoreapp2.0\dicewithresult1.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\conditional\dicewithresult1\obj\Debug\netcoreapp2.0\dicewithresult1.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\conditional\dicewithresult1\obj\Debug\netcoreapp2.0\dicewithresult1.AssemblyInfoInputs.cache
+D:\github\c-pratice\conditional\dicewithresult1\obj\Debug\netcoreapp2.0\dicewithresult1.AssemblyInfo.cs
+D:\github\c-pratice\conditional\dicewithresult1\obj\Debug\netcoreapp2.0\dicewithresult1.dll
+D:\github\c-pratice\conditional\dicewithresult1\obj\Debug\netcoreapp2.0\dicewithresult1.pdb

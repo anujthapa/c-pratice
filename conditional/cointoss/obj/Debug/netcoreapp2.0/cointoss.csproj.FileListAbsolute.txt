@@ -1,0 +1,11 @@
+D:\github\c-pratice\conditional\cointoss\bin\Debug\netcoreapp2.0\cointoss.deps.json
+D:\github\c-pratice\conditional\cointoss\bin\Debug\netcoreapp2.0\cointoss.runtimeconfig.json
+D:\github\c-pratice\conditional\cointoss\bin\Debug\netcoreapp2.0\cointoss.runtimeconfig.dev.json
+D:\github\c-pratice\conditional\cointoss\bin\Debug\netcoreapp2.0\cointoss.dll
+D:\github\c-pratice\conditional\cointoss\bin\Debug\netcoreapp2.0\cointoss.pdb
+D:\github\c-pratice\conditional\cointoss\obj\Debug\netcoreapp2.0\cointoss.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\conditional\cointoss\obj\Debug\netcoreapp2.0\cointoss.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\conditional\cointoss\obj\Debug\netcoreapp2.0\cointoss.AssemblyInfoInputs.cache
+D:\github\c-pratice\conditional\cointoss\obj\Debug\netcoreapp2.0\cointoss.AssemblyInfo.cs
+D:\github\c-pratice\conditional\cointoss\obj\Debug\netcoreapp2.0\cointoss.dll
+D:\github\c-pratice\conditional\cointoss\obj\Debug\netcoreapp2.0\cointoss.pdb

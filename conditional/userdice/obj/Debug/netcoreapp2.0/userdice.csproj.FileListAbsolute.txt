@@ -1,0 +1,11 @@
+D:\github\c-pratice\conditional\userdice\bin\Debug\netcoreapp2.0\userdice.deps.json
+D:\github\c-pratice\conditional\userdice\bin\Debug\netcoreapp2.0\userdice.runtimeconfig.json
+D:\github\c-pratice\conditional\userdice\bin\Debug\netcoreapp2.0\userdice.runtimeconfig.dev.json
+D:\github\c-pratice\conditional\userdice\bin\Debug\netcoreapp2.0\userdice.dll
+D:\github\c-pratice\conditional\userdice\bin\Debug\netcoreapp2.0\userdice.pdb
+D:\github\c-pratice\conditional\userdice\obj\Debug\netcoreapp2.0\userdice.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\conditional\userdice\obj\Debug\netcoreapp2.0\userdice.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\conditional\userdice\obj\Debug\netcoreapp2.0\userdice.AssemblyInfoInputs.cache
+D:\github\c-pratice\conditional\userdice\obj\Debug\netcoreapp2.0\userdice.AssemblyInfo.cs
+D:\github\c-pratice\conditional\userdice\obj\Debug\netcoreapp2.0\userdice.dll
+D:\github\c-pratice\conditional\userdice\obj\Debug\netcoreapp2.0\userdice.pdb

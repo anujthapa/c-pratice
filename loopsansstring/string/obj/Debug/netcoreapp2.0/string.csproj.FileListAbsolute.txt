@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\string\obj\Debug\netcoreapp2.0\string.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\string\obj\Debug\netcoreapp2.0\string.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\string\obj\Debug\netcoreapp2.0\string.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\string\obj\Debug\netcoreapp2.0\string.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\string\bin\Debug\netcoreapp2.0\string.deps.json
+D:\github\c-pratice\loopsansstring\string\bin\Debug\netcoreapp2.0\string.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\string\bin\Debug\netcoreapp2.0\string.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\string\bin\Debug\netcoreapp2.0\string.dll
+D:\github\c-pratice\loopsansstring\string\bin\Debug\netcoreapp2.0\string.pdb
+D:\github\c-pratice\loopsansstring\string\obj\Debug\netcoreapp2.0\string.dll
+D:\github\c-pratice\loopsansstring\string\obj\Debug\netcoreapp2.0\string.pdb

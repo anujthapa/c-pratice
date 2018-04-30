@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\increseby5\bin\Debug\netcoreapp2.0\increseby5.deps.json
+D:\github\c-pratice\loopsansstring\increseby5\bin\Debug\netcoreapp2.0\increseby5.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\increseby5\bin\Debug\netcoreapp2.0\increseby5.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\increseby5\bin\Debug\netcoreapp2.0\increseby5.dll
+D:\github\c-pratice\loopsansstring\increseby5\bin\Debug\netcoreapp2.0\increseby5.pdb
+D:\github\c-pratice\loopsansstring\increseby5\obj\Debug\netcoreapp2.0\increseby5.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\increseby5\obj\Debug\netcoreapp2.0\increseby5.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\increseby5\obj\Debug\netcoreapp2.0\increseby5.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\increseby5\obj\Debug\netcoreapp2.0\increseby5.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\increseby5\obj\Debug\netcoreapp2.0\increseby5.dll
+D:\github\c-pratice\loopsansstring\increseby5\obj\Debug\netcoreapp2.0\increseby5.pdb

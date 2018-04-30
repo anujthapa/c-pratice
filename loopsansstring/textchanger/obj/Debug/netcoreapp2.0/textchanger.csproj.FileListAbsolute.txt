@@ -1,0 +1,11 @@
+D:\github\c-pratice\loopsansstring\textchanger\bin\Debug\netcoreapp2.0\textchanger.deps.json
+D:\github\c-pratice\loopsansstring\textchanger\bin\Debug\netcoreapp2.0\textchanger.runtimeconfig.json
+D:\github\c-pratice\loopsansstring\textchanger\bin\Debug\netcoreapp2.0\textchanger.runtimeconfig.dev.json
+D:\github\c-pratice\loopsansstring\textchanger\bin\Debug\netcoreapp2.0\textchanger.dll
+D:\github\c-pratice\loopsansstring\textchanger\bin\Debug\netcoreapp2.0\textchanger.pdb
+D:\github\c-pratice\loopsansstring\textchanger\obj\Debug\netcoreapp2.0\textchanger.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\loopsansstring\textchanger\obj\Debug\netcoreapp2.0\textchanger.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\loopsansstring\textchanger\obj\Debug\netcoreapp2.0\textchanger.AssemblyInfoInputs.cache
+D:\github\c-pratice\loopsansstring\textchanger\obj\Debug\netcoreapp2.0\textchanger.AssemblyInfo.cs
+D:\github\c-pratice\loopsansstring\textchanger\obj\Debug\netcoreapp2.0\textchanger.dll
+D:\github\c-pratice\loopsansstring\textchanger\obj\Debug\netcoreapp2.0\textchanger.pdb

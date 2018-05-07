@@ -1,0 +1,11 @@
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\obj\Debug\netcoreapp2.0\stringmanuplation.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\obj\Debug\netcoreapp2.0\stringmanuplation.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\obj\Debug\netcoreapp2.0\stringmanuplation.AssemblyInfoInputs.cache
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\obj\Debug\netcoreapp2.0\stringmanuplation.AssemblyInfo.cs
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\bin\Debug\netcoreapp2.0\stringmanuplation.deps.json
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\bin\Debug\netcoreapp2.0\stringmanuplation.runtimeconfig.json
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\bin\Debug\netcoreapp2.0\stringmanuplation.runtimeconfig.dev.json
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\bin\Debug\netcoreapp2.0\stringmanuplation.dll
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\bin\Debug\netcoreapp2.0\stringmanuplation.pdb
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\obj\Debug\netcoreapp2.0\stringmanuplation.dll
+D:\github\c-pratice\objectandencapsulation\stringmanuplation\obj\Debug\netcoreapp2.0\stringmanuplation.pdb

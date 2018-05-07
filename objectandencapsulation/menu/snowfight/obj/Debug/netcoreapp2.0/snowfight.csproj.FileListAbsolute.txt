@@ -1,0 +1,11 @@
+D:\github\c-pratice\objectandencapsulation\snowfight\bin\Debug\netcoreapp2.0\snowfight.deps.json
+D:\github\c-pratice\objectandencapsulation\snowfight\bin\Debug\netcoreapp2.0\snowfight.runtimeconfig.json
+D:\github\c-pratice\objectandencapsulation\snowfight\bin\Debug\netcoreapp2.0\snowfight.runtimeconfig.dev.json
+D:\github\c-pratice\objectandencapsulation\snowfight\bin\Debug\netcoreapp2.0\snowfight.dll
+D:\github\c-pratice\objectandencapsulation\snowfight\bin\Debug\netcoreapp2.0\snowfight.pdb
+D:\github\c-pratice\objectandencapsulation\snowfight\obj\Debug\netcoreapp2.0\snowfight.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\objectandencapsulation\snowfight\obj\Debug\netcoreapp2.0\snowfight.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\objectandencapsulation\snowfight\obj\Debug\netcoreapp2.0\snowfight.AssemblyInfoInputs.cache
+D:\github\c-pratice\objectandencapsulation\snowfight\obj\Debug\netcoreapp2.0\snowfight.AssemblyInfo.cs
+D:\github\c-pratice\objectandencapsulation\snowfight\obj\Debug\netcoreapp2.0\snowfight.dll
+D:\github\c-pratice\objectandencapsulation\snowfight\obj\Debug\netcoreapp2.0\snowfight.pdb

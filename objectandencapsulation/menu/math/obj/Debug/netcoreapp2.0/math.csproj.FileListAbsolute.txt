@@ -1,0 +1,11 @@
+D:\github\c-pratice\objectandencapsulation\math\bin\Debug\netcoreapp2.0\math.deps.json
+D:\github\c-pratice\objectandencapsulation\math\bin\Debug\netcoreapp2.0\math.runtimeconfig.json
+D:\github\c-pratice\objectandencapsulation\math\bin\Debug\netcoreapp2.0\math.runtimeconfig.dev.json
+D:\github\c-pratice\objectandencapsulation\math\bin\Debug\netcoreapp2.0\math.dll
+D:\github\c-pratice\objectandencapsulation\math\bin\Debug\netcoreapp2.0\math.pdb
+D:\github\c-pratice\objectandencapsulation\math\obj\Debug\netcoreapp2.0\math.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\objectandencapsulation\math\obj\Debug\netcoreapp2.0\math.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\objectandencapsulation\math\obj\Debug\netcoreapp2.0\math.AssemblyInfoInputs.cache
+D:\github\c-pratice\objectandencapsulation\math\obj\Debug\netcoreapp2.0\math.AssemblyInfo.cs
+D:\github\c-pratice\objectandencapsulation\math\obj\Debug\netcoreapp2.0\math.dll
+D:\github\c-pratice\objectandencapsulation\math\obj\Debug\netcoreapp2.0\math.pdb

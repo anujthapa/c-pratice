@@ -1,0 +1,9 @@
+D:\github\c-pratice\viusal critter\bin\Debug\viusal critter.exe
+D:\github\c-pratice\viusal critter\bin\Debug\viusal critter.pdb
+D:\github\c-pratice\viusal critter\obj\Debug\viusal critter.csprojResolveAssemblyReference.cache
+D:\github\c-pratice\viusal critter\obj\Debug\viusal_critter.Form1.resources
+D:\github\c-pratice\viusal critter\obj\Debug\viusal_critter.Properties.Resources.resources
+D:\github\c-pratice\viusal critter\obj\Debug\viusal critter.csproj.GenerateResource.Cache
+D:\github\c-pratice\viusal critter\obj\Debug\viusal critter.csproj.CoreCompileInputs.cache
+D:\github\c-pratice\viusal critter\obj\Debug\viusal critter.exe
+D:\github\c-pratice\viusal critter\obj\Debug\viusal critter.pdb
